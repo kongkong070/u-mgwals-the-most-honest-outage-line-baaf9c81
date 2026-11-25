@@ -1,6 +1,6 @@
 # The Most Honest Outage Line
 
-[![make.fun](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)
+[![make.fun](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
 [![rank](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/kongkong070/u-mgwals-the-most-honest-outage-line-baaf9c81/rank.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
 [![reward](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/kongkong070/u-mgwals-the-most-honest-outage-line-baaf9c81/reward.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
 
