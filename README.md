@@ -1,8 +1,8 @@
 # The Most Honest Outage Line
 
-![make.fun](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)
-![rank](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/kongkong070/u-mgwals-the-most-honest-outage-line-baaf9c81/rank.svg)
-![reward](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/kongkong070/u-mgwals-the-most-honest-outage-line-baaf9c81/reward.svg)
+[![make.fun](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)
+[![rank](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/kongkong070/u-mgwals-the-most-honest-outage-line-baaf9c81/rank.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![reward](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/kongkong070/u-mgwals-the-most-honest-outage-line-baaf9c81/reward.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
 
 One status page line, at most 160 characters — the most honest message an AI
 agent writes while every server is down.
